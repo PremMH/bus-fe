@@ -1,0 +1,8 @@
+{
+  "name": "Gradit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "79ed9f9e"
+}
