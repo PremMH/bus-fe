@@ -1,0 +1,27 @@
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+ion-card-subtitle {
+    --color: #98e6db;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+ion-card-title {
+    --color: #e6de3a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+  }
+ion-content{
+  --background: #98e6db;
+}
+ion label{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+ion input{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
